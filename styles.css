@@ -1,0 +1,20 @@
+* {
+  font-family: roboto, sans-serif;
+}
+
+.nav-bar {
+  display: flex;
+  background-color: #1f2937;
+  color: #F9FAF8;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 15px;
+}
+
+.nav-bar button {
+  color: #F9FAF8;
+  background-color: #1f2937;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
