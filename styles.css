@@ -17,4 +17,34 @@
   border: none;
   padding: 0.5rem 1rem;
   cursor: pointer;
+  font-size: 18px;
+}
+.hero {
+  display: flex;
+  background-color: #1f2937;
+  color: #F9FAF8;
+  justify-content: center;
+  
+}
+
+.hero .hero-photo {
+  display: flex;
+  justify-content: flex-end;
+  height: 200px;
+  width: 500px;
+  margin-right: 100px;
+  margin-bottom: 50px;
+}
+
+.hero button {
+  display: flex;
+  background-color: #3882f6;
+  color: #F9FAF8;
+  padding: 15px;
+  font-family: roboto;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
 }
