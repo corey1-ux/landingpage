@@ -119,3 +119,14 @@ margin-top: 20px;
   padding-right: 15px;
   border-radius: 10px;
 }
+
+.copyright {
+
+  display: flex;
+  justify-content: center;
+  background-color: #1f2937;
+  color: white;
+  padding-bottom: 30px;
+  padding-top: 30px;
+
+}
